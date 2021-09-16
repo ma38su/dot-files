@@ -1,0 +1,7 @@
+[user]
+	email = ma38su@gmail.com
+	name = ma38su
+[credential]
+	helper = cache
+[core]
+	editor = vim
